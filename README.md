@@ -1,6 +1,6 @@
-# mOrpheus Virtual Assistant
+# Real-Time Local Voice AI
 
-mOrpheus is a powerful, flexible, and real-time voice assistant designed to run locally or via cloud APIs. It bridges the gap between local privacy-focused AI and cutting-edge cloud models, offering a seamless voice interaction experience.
+Real-Time Local Voice AI is a powerful, flexible, and real-time voice assistant designed to run locally or via cloud APIs. It bridges the gap between local privacy-focused AI and cutting-edge cloud models, offering a seamless voice interaction experience.
 
 ## Features
 
