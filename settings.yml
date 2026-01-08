@@ -19,7 +19,7 @@ lm:
   
   chat:
     endpoint: "/chat/completions"       # API endpoint for chat-based text generation.
-    model: "gemma-3-12b-it"             # Model identifier for chat generation.
+    model: "llama-3.2-3b-instruct"      # Model identifier for chat generation.
     system_prompt: "You are a helpful assistant."  # System prompt to set the context.
     max_tokens: 256                     # Increased for more coherent responses.
     temperature: 0.7                    # Sampling temperature; controls randomness.

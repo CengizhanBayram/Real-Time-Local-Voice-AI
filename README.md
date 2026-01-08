@@ -60,7 +60,7 @@ whisper:
 lm:
   api_url: "http://127.0.0.1:1234/v1"
   chat:
-    model: "gemma-3-12b-it"
+    model: "llama-3.2-3b-instruct"
 ```
 
 ## Usage
